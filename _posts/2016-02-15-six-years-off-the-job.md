@@ -7,6 +7,9 @@ tags:
   - holiday
 mediaplayer: false
 image: 
+header: no
+image:
+  title: "shen-man-sty-001.jpg"
   thumb: "shen-man-sty-001.jpg"
 teaser: "Another quiet day at the office. And another. And another..."
 ---
