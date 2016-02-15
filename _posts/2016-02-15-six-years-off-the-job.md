@@ -1,19 +1,16 @@
 ---
 layout: page
-subheadline: Work
+subheadline: "Work"
+title: "Six years off the job"
 category: stories
 tags: 
   - work
   - holiday
-mediaplayer: false
-image: 
-header: no
+#mediaplayer: true
 image:
-  title: "shen-man-sty-001.jpg"
   thumb: "shen-man-sty-001.jpg"
 teaser: "Another quiet day at the office. And another. And another..."
 ---
-
 Spanish construction supervisor Joaquin Garcia [apparently](http://www.bbc.com/news/world-europe-35557725) managed to keep getting paid without turning up to work. For six years!
 
 
