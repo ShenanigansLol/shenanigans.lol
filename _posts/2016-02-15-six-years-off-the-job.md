@@ -1,5 +1,5 @@
 ---
-layout: page90
+layout: page
 subheadline: Work
 category: stories
 tags: 
@@ -8,6 +8,7 @@ tags:
 mediaplayer: false
 image: 
   thumb: "shen-man-sty-001.jpg"
+teaser: "Another quiet day at the office. And another. And another..."
 ---
 
 Spanish construction supervisor Joaquin Garcia [apparently](http://www.bbc.com/news/world-europe-35557725) managed to keep getting paid without turning up to work. For six years!
